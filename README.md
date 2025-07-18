@@ -1,6 +1,7 @@
 # 🛒 Zepto Sales Data Analysis using SQL
 
 A hands-on SQL project analyzing a dataset inspired by Zepto's product catalog. The goal is to clean the data, analyze pricing, discounts, stock availability, and derive actionable insights using advanced SQL queries.
+
 ---
 ## 📌 Project Overview
 
@@ -10,6 +11,7 @@ The goal is to simulate how real data analysts in e-commerce or retail industrie
 ✅ Explore product categories, prices, and stock inconsistencies  
 ✅ Clean data (fix nulls, remove invalids, normalize prices)  
 ✅ Generate actionable insights with business-driven SQL queries
+
 ---
 ## 🛠️ Skills Used
 - SQL (DDL, DML, Aggregations, CASE, JOINS)
